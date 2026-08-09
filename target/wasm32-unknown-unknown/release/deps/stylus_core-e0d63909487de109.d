@@ -1,0 +1,11 @@
+/mnt/d/Proyectos/Blockchain/otter-pot/packages/stylus/contracts/challenge_pool/target/wasm32-unknown-unknown/release/deps/stylus_core-e0d63909487de109.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/calls/mod.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/calls/context.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/calls/errors.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/deploy.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/host.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/storage.rs
+
+/mnt/d/Proyectos/Blockchain/otter-pot/packages/stylus/contracts/challenge_pool/target/wasm32-unknown-unknown/release/deps/libstylus_core-e0d63909487de109.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/calls/mod.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/calls/context.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/calls/errors.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/deploy.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/host.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/storage.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/calls/mod.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/calls/context.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/calls/errors.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/deploy.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/host.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stylus-core-0.8.4/src/storage.rs:

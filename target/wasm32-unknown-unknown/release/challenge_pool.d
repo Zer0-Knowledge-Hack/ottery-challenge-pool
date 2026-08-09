@@ -1,0 +1,1 @@
+/mnt/d/Proyectos/Blockchain/otter-pot/packages/stylus/contracts/challenge_pool/target/wasm32-unknown-unknown/release/challenge_pool.wasm: /mnt/d/Proyectos/Blockchain/otter-pot/packages/stylus/contracts/challenge_pool/src/lib.rs /mnt/d/Proyectos/Blockchain/otter-pot/packages/stylus/contracts/challenge_pool/src/logic.rs
